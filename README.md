@@ -1,2 +1,0 @@
-# FunnyBucket
-Pet-project game
